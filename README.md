@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚀 Amani Jordan</h1>
+  <h1>🚀 Amani Jordan Dev</h1>
   <h3>Frontend Developer | JavaScript Specialist | Tech Content Creator</h3>
   <p>Building modern web applications from Uganda | Self-taught | Open to collaborations</p>
   
