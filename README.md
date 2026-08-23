@@ -59,8 +59,7 @@ I'm an 18-year-old self-taught frontend developer from Kampala, Uganda with a pa
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmaniJordanDev&show_icons=true&theme=dark&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmaniJordanDev&theme=dark)](https://github.com/AmaniJordanDev)
 
 ## 🌱 Learning Path
 
