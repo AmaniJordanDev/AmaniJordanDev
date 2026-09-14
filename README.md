@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an 18-year-old self-taught frontend developer from Kampala, Uganda with a passion for building real-world web applications and creating tech content. I specialize in vanilla JavaScript, HTML, and CSS, with experience expanding into React. I run **DevRise Community** and operate under the **Code Investors** brand.
+I'm an 18-year-old self-taught frontend developer from Kampala, Uganda with a passion for building real-world web applications and creating tech content. I specialize in vanilla JavaScript, HTML, and CSS, with experience expanding into React. I run **DevRise Community** .
 
 - 🎯 **Specialization:** Vanilla JavaScript, responsive web design, component architecture
 - 🛠️ **Current Projects:** AmaniChat (messaging app), Code Investors website, Wells of Life Pneuma Ministries site
