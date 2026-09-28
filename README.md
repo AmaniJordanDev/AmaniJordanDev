@@ -15,8 +15,7 @@ Self-taught · Open to freelance & collaborations
 ---
 
 ### About Me
-
-18-year-old frontend developer specializing in **vanilla JavaScript, HTML, and CSS**, currently expanding into React. I build real-world web apps and share what I learn through tech content on social media.
+ frontend developer specializing in **vanilla JavaScript, HTML, and CSS**, currently expanding into React. I build real-world web apps and share what I learn through tech content on social media.
 
 ---
 
