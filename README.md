@@ -45,7 +45,7 @@ Self-taught · Open to freelance & collaborations
 
 ### Connect
 
-📧 [amanijordanweb45@gmail.com](mailto:amanijordanweb45@gmail.com) · 🌐 [Portfolio](https://amani-jordan-p.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/amani-jordan-b92b26360/)
+📧 [amanijordanweb45@gmail.com](mailto:amanijordanweb45@gmail.com) · 🌐 [Portfolio](https://my-partfolio-delta.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/amani-jordan-b92b26360/)
 
 <div align="center">
 <sub>Open to freelance projects & collaborations</sub>
